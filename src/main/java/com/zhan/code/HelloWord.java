@@ -12,8 +12,6 @@ public class HelloWord {
         System.out.println("hello word");
 
 
-        System.out.println("dfhsadlf");
-
-
+        System.out.println("suib");
     }
 }
